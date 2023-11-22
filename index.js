@@ -13,3 +13,5 @@ connectToDatabase();
 // require('./modules/express');
 
 // const person = new Person("Weverson");
+MONGODB_USER = weversonmnzs
+MONGODB_PASSWORD = bsA32CDGmSTACIAq
